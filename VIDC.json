@@ -1,14 +1,16 @@
 {
   "status": true,
   "creator": "apid",
-  "version": "v1",
+  "version": "v2",
   "message": "Berhasil memuat data video",
   "data": [
     {
       "id": 1,
-      "title": "Kamu yakin??",
-      "thumbnail": "https://i.ibb.co.com/0RC49KWD/2560x1440-222.webp",
-      "videoUrl": "https://pixeldrain.com/api/file/38UGqDGB"
+      "title": "PETUNJUK TERAKHIR part 22 - Drama Animasi[cite: 1]",
+      "channelName": "Sie_EM",
+      "profilePicture": "https://pngup.com/7GHz/images.jpeg",
+      "thumbnail": "https://pngup.com/Wbxr/maxresdefault.jpg[cite: 1]",
+      "videoUrl": "https://gofile.io/d/wxoLxDTr[cite: 1]"
     }
   ]
 }
