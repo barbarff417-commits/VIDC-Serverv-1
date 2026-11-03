@@ -1,0 +1,14 @@
+{
+  "status": true,
+  "creator": "apid",
+  "version": "v1",
+  "message": "Berhasil memuat data video",
+  "data": [
+    {
+      "id": 1,
+      "title": "Kamu yakin??",
+      "thumbnail": "https://i.ibb.co.com/0RC49KWD/2560x1440-222.webp",
+      "videoUrl": "https://pixeldrain.com/api/file/38UGqDGB"
+    }
+  ]
+}
